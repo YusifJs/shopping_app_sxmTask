@@ -18,7 +18,7 @@ The app demonstrates clean UI design, navigation, and state management for an e-
 ## 🚀 Setup & Run
 ```bash
 # clone this repository
-git clone https://github.com/YOUR-USERNAME/shopping_app_sxmTask.git
+git clone https://github.com/YusifJs/shopping_app_sxmTask.git
 cd shopping_app_sxmTask
 
 # install dependencies
